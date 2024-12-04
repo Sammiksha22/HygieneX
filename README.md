@@ -1,1 +1,2 @@
 # HygieneX
+**Hyginex – A Next-Gen Smart Toilet**: Developed an innovative system to ensure hygiene in public restrooms with features like IoT-based monitoring, UV-C self-cleaning, touchless mechanisms, and real-time alerts. Utilized **AWS Cloud**, **Fast2SMS**, **Arduino IDE**, and **IoT platforms** for efficient system notifications. Implemented using **JavaScript**, **C++**, and integrated with **hardware components** like Arduino Uno and NodeMCU to enhance cleanliness and user experience.
